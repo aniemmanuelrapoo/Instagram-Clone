@@ -177,18 +177,18 @@ function App() {
         }
         </div>
         <div className="app_postRight">
-          {/* <InstagramEmbed
-          // clientAccessToken='<appId>|<clientToken>'
-          // url='https://instagr.am/p/Zw9o4/'
-          // maxWidth={375}   
-          // hideCaption={false}
-          // containerTagName='div'
-          // protocol=''
-          // injectScript
-          // onLoading={() => {}}
-          // onSuccess={() => {}}
-          // onAfterRender={() => {}}
-          // onFailure={() => {}}
+        {/* <InstagramEmbed
+          url='https://instagr.am/p/Zw9o4/'
+          clientAccessToken='123|456'
+          maxWidth={320}
+          hideCaption={false}
+          containerTagName='div'
+          protocol=''
+          injectScript
+          onLoading={() => {}}
+          onSuccess={() => {}}
+          onAfterRender={() => {}}
+          onFailure={() => {}}
         /> */}
       </div>
           
